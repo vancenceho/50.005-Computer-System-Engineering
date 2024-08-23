@@ -35,8 +35,6 @@ Additional to lab assignments, there are two programming projects in this module
 
 The details of the assignmnents can be found in [Programming Assignment 1](https://natalieagus.github.io/50005/pa1/intro) and [Programming Assignment 2](https://natalieagus.github.io/50005/pa2/intro).
 
-<br>
-
 ## Acknowledgements
 
 These lab solutions are an undertaking of the [50.005 - Computer System Engineering](https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering) module during Summer 2024 under the **ISTD** faculty at **SUTD**.
