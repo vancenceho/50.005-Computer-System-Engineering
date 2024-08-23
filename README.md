@@ -26,6 +26,17 @@ Finally, there is one additional lab which is a repository itself due to it bein
 
 - [Lab 9: Web server and client (1.5%), Week 12](https://github.com/vancenceho/coffee-pot-web-server)
 
+## Programming Assignments
+
+Additional to lab assignments, there are two programming projects in this module and due to them being projects, they are held in repositories of their own listed as followed:
+
+1. [Programming Assignment 1: CSEShell (10%)](https://github.com/50005-computer-system-engineering/programming-assignment-1-2024-ci01-what_is_this_sem_phore)
+2. [Programming Assignment 2: Secure FTP (8%)](https://github.com/50005-computer-system-engineering/programming-assignment-2-2024-ci01-what_is_this_sem_phore)
+
+The details of the assignmnents can be found in [Programming Assignment 1](https://natalieagus.github.io/50005/pa1/intro) and [Programming Assignment 2](https://natalieagus.github.io/50005/pa2/intro).
+
+<br>
+
 ## Acknowledgements
 
 These lab solutions are an undertaking of the [50.005 - Computer System Engineering](https://istd.sutd.edu.sg/undergraduate/courses/50005-computer-system-engineering) module during Summer 2024 under the **ISTD** faculty at **SUTD**.
