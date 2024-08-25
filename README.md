@@ -8,6 +8,7 @@ The labs that are included in this repository are listed as followed:
 
 - Lab 2: The Tiny OS (1.5%), Week 2
 - Lab 3: TOCTOU Race Condition Attack (1.5%), Week 3
+  > This lab is done on a Ubuntu OS virtual machine in UTM since it explores Time-Of-Check to Time-Of-Use (TOCTOU) race condition attack and would require different users with different priviledges, therefore it is much safer for this lab to be done on a separate machine which is not your localhost.
 - Lab 4: Process Scheduling (1.5%), Week 4
 - Lab 5: Banker’s Algorithm (1.5%), Week 5
 - Lab 7: Python Cryptography (1.5%), Week 10
