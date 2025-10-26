@@ -34,7 +34,7 @@ Additional to lab assignments, there are two programming projects in this module
 1. [Programming Assignment 1: CSEShell (10%)](https://github.com/vancenceho/unix-cseshell)
 2. [Programming Assignment 2: Secure FTP (8%)](https://github.com/50005-computer-system-engineering/programming-assignment-2-2024-ci01-what_is_this_sem_phore)
 
-The details of the assignmnents can be found in [Programming Assignment 1](https://natalieagus.github.io/50005/pa1/intro) and [Programming Assignment 2](https://natalieagus.github.io/50005/pa2/intro).
+The details of the assignments can be found in [Programming Assignment 1](https://natalieagus.github.io/50005/pa1/intro) and [Programming Assignment 2](https://natalieagus.github.io/50005/pa2/intro).
 
 ## Acknowledgements
 
